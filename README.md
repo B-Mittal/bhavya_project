@@ -1,3 +1,5 @@
 # finalpro
-this is my final frt project.
-#azure link https://jolly-mud-02abb3610.1.azurestaticapps.net/
+This is my final FRT Project.
+
+Below shown is the link for the deployed site on AZURE:
+https://wonderful-grass-073c53c10.5.azurestaticapps.net/index.html
